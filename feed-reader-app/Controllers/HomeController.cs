@@ -20,6 +20,7 @@ namespace feed_reader_app.Controllers
 
         public IActionResult Index()
         {
+            string value = "";
             return View();
         }
 
