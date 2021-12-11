@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 	<PropertyGroup>
-		<TargetFramework>net5.0</TargetFramework>
+		<TargetFramework>NETSDK1005</TargetFramework>
 		<TargetFrameworkAlias>NETSDK1005</TargetFrameworkAlias>
 		<RootNamespace>feed_reader_app</RootNamespace>
 	</PropertyGroup>
